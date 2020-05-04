@@ -1,9 +1,9 @@
 # KES
-*researching metrics to evaluate performance of knowledge-extraction systems in weak-structured domains*
+*researching metrics to evaluate performance of knowledge-extraction systems in ill-defined domains*
 
 this repo stores materials for my master's thesis
 
-##outline:
+## outline:
 
 1. Introduction
 	+ [Knowledge, its domains, knowledge extraction](https://docs.google.com/document/d/1JNF5NggUo4bfCbtphZhkga_A0DXRcNziLyCwkcq6yTo/edit?usp=sharing)
