@@ -1,6 +1,3 @@
+*evaluating performance of knowledge extraction systems for ill-defined domains*
 
-
-
-testiing formula syntax
-
-$\sum_{i=1}^{n} x_i$
+This repo contains complementary materials to my thesis
